@@ -1,0 +1,9 @@
+Config File: 
+
+S.No	Server/Client	Port number		Will send chunks to								Will get chunks from
+ 1.		Server			9050			Client1, Client2, Client3, Client4, Client5	 	N/A	
+ 2. 	Client1			9001			Client2											Client5
+ 2. 	Client2			9002			Client3											Client1
+ 2. 	Client3			9003			Client4											Client2
+ 2. 	Client4			9004			Client5											Client3
+ 2. 	Client5			9005			Client1											Client4
