@@ -14,5 +14,6 @@ of demo file in "Server" folder.
 
 Note: Please make sure to run Clients in the order written above. i.e make sure to run 
 "Client1.java" in 2nd cmd window, "Client2.java" in 3rd cmd window and so on.
+Also make sure that Server and Client files are in individual folders. 
 
 Read "Config.txt" file to see the configuration.
